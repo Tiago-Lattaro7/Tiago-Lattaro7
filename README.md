@@ -1,4 +1,4 @@
-# Hola. me llamo Tiago Lattaro
+# Hola, me llamo Tiago Lattaro
 
 ##  Soy estudiante de la ORT en el cuarto semestre, me gustan las matematicas, la fisica y los videojuegos!
 
